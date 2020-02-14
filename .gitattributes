@@ -1,1 +1,2 @@
-ChangeLog    merge=merge-changelog
+  ChangeLog    merge=merge-changelog
+  version.txt   merge=semver-merge
