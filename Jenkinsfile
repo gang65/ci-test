@@ -4,6 +4,7 @@ pipeline {
     stage('budowanie') {
       steps {
         echo 'to jest budowanie'
+        error 'blad'
       }
     }
 
