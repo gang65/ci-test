@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('budowanie') {
       steps {
-        echo 'to jest budowanie'
+        echo 'to jest budowanie zmienione'
         sleep 1
       }
     }
